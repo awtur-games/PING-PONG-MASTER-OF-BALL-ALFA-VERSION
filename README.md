@@ -2,6 +2,8 @@ PING PONG MASTERS OF BALL - ALFA VERSION
 
 A ping pong game featuring legendary battles, power-ups, meteorites, and lightning bolts.
 
+Play on: https://awtur-games.github.io/PING-PONG-MASTER-OF-BALL-ALFA-VERSION/
+
 What it’s about:
 You are "?", a 15-year-old teenager who wants to become a professional table tennis player.
 
